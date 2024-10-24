@@ -24,8 +24,8 @@ const productosPorCategoria = {
         { nombre: 'Choco Menta', precio: 9.50, imagen:'./images/shakes/chocomenta.png'  }
     ],
     'fresas': [
-        { nombre: 'chocolate', precio: 9.50, imagen:'./images/fresas/fresas.png' },
-        { nombre: 'vainilla', precio: 9.50, imagen:'./images/fresas/fresasV.png' }
+        { nombre: 'chocolate', precio: 6.00, imagen:'./images/fresas/fresas.png' },
+        { nombre: 'vainilla', precio: 10.00, imagen:'./images/fresas/fresasV.png' }
 
     ],
     'sodas-heladas': [
