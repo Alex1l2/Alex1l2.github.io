@@ -111,6 +111,7 @@ button:hover {
     margin-top: 20px;
     border-top: 2px solid #ccc;
     padding: 10px;
+    margin-bottom: 40px;
 }
 .resumen-carrito h2{
     text-align: center;
