@@ -135,11 +135,7 @@ button:hover {
 
 @media (min-width: 371px) 
 {
-.preloader p{
-    position: fixed;
-    top: 35%;
-    left: 7%;
-}   
+  
 .productos{
     max-width:372px ;
     margin: auto;
